@@ -1,1 +1,1 @@
-# coffe_brand_homepage_renewal
+# coffee_brand_homepage_renewal
